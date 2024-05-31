@@ -1,0 +1,40 @@
+/* Header.css */
+
+.header {
+    background-color: #5f83b9;
+    color: white;
+    padding: 20px;
+  }
+  
+  .header h1
+  {
+    margin: 0;
+  }
+  
+  .header nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .header nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  .header nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .center {
+    display: flex;
+    justify-content: center; /* Horizontally center */
+    align-items: center; /* Vertically center */
+  }
+
+  .right-align {
+    text-align: right;
+  }
+  
+  
